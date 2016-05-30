@@ -1,0 +1,5 @@
+.Rproj.user
+.Rhistory
+.RData
+data/en_US/*.*
+.DS_Store
